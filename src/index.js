@@ -1,1 +1,1 @@
-console.log("Hello from Js file");
+document.querySelector("#root").innerHTML = "Hello from Vanilla JS";
